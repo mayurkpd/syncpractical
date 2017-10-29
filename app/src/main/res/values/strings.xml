@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_name">Name</string>
+    <string name="label_discription">Description</string>
+    <string name="lable_add">Add Brand</string>
+    <string name="ok">Ok</string>
+    <string name="empty_field">Add text</string>
+</resources>
